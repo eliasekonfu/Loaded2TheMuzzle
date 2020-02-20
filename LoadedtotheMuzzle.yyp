@@ -90,7 +90,7 @@
             "Key": "19311369-ce93-4691-be96-916f94a05791",
             "Value": {
                 "id": "9d99dbc7-c3b4-4fa7-a739-e6d2a7ff3921",
-                "resourcePath": "sprites\/EliasEkon_RIGHT\/EliasEkon_RIGHT.yy",
+                "resourcePath": "sprites\\Aleks_RIGHT\\Aleks_RIGHT.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -331,14 +331,6 @@
             "Value": {
                 "id": "b8c494f7-f4b2-40a0-93f2-3e5e6423a868",
                 "resourcePath": "sprites\/EliasEkon_LEFT\/EliasEkon_LEFT.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ff212167-04f3-49c8-bc03-a1428b03e506",
-            "Value": {
-                "id": "a61f4f17-450d-4d8c-8978-685e4e135c49",
-                "resourcePath": "sprites\\Aleks_RIGHT\\Aleks_RIGHT.yy",
                 "resourceType": "GMSprite"
             }
         }
