@@ -333,6 +333,14 @@
                 "resourcePath": "sprites\/EliasEkon_LEFT\/EliasEkon_LEFT.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "ff212167-04f3-49c8-bc03-a1428b03e506",
+            "Value": {
+                "id": "a61f4f17-450d-4d8c-8978-685e4e135c49",
+                "resourcePath": "sprites\\Aleks_RIGHT\\Aleks_RIGHT.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
